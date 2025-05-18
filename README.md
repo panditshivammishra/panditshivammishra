@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="output.jpg" alt="Output Image" width="400" height="300">
+  <img src="output.jpg" alt="Output Image" width="700" height="300">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Shivam  Mishra (SWE)</b></h1>
